@@ -2,6 +2,10 @@
 
 Meu primeiro projeto desenvolvido em Java - Uma calculadora de linha de comando funcional.
 
+## 📸 Demonstração
+
+![Screenshot da Calculadora](screenshot.png)
+
 ## 📋 Sobre o Projeto
 
 Este é um projeto educacional desenvolvido durante meus estudos iniciais de Java. A calculadora realiza operações matemáticas básicas através da linha de comando, permitindo ao usuário realizar múltiplos cálculos em sequência.
